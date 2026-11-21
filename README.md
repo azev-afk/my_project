@@ -40,4 +40,5 @@ python main.py
 ```
 
 ## Author
-Aziza Isaeva
+Azev-afk
+
